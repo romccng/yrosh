@@ -1,0 +1,2 @@
+# yrosh
+OpenCV/EmguCV/C#
